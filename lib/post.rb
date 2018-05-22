@@ -1,7 +1,4 @@
 
 def Post
-  att
-  
-  def initialize
-  end
+  attr_accessor :title
 end
